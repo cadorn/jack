@@ -1,5 +1,4 @@
 {
-    "uid": "http://registry.pinf.org/cadorn.org/github/jack/",
     "name": "jack",
     "dependencies": [
         "narwhal"
@@ -15,11 +14,5 @@
         "jsgi",
         "rack",
         "wsgi"
-    ],
-    "using": {
-        "wildfire": {
-            "location": "http://github.com/cadorn/wildfire/zipball/master/",
-            "path": "packages/lib-js-system"
-        }
-    }
+    ]
 }
