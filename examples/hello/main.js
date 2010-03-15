@@ -11,4 +11,3 @@ exports.app = new ContentLength(function (env) {
 
 if (require.main == module.id)
     require("jackup").main(system.args.concat([module.id]));
-
